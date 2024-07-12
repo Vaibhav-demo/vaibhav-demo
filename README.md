@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my first github repo.
+Author -Vaibhav vats
 
 <!--
 **Vaibhav-demo/vaibhav-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
